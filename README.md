@@ -5,5 +5,3 @@
 - You can reach me by email [`real.shadow.nova@gmail.com`](mailto://real.shadow.nova@gmail.com) or through my Discord `RealShadowNova#7462`
 
 ![](https://github-readme-stats.vercel.app/api?username=RealShadowNova&repo=dominus&count_private=true&show_icons=true&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RealShadowNova)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=RealShadowNova)](https://github.com/anuraghazra/github-readme-stats)
