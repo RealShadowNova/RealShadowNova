@@ -7,4 +7,5 @@
   - Server: [`Nova's Lounge`](https://discord.gg/fERY6AenEv)
   - User: `RealShadowNova#7462`
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RealShadowNova&count_private=true&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealShadowNova&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=dark)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RealShadowNova&hide_title=true&theme=dark)
