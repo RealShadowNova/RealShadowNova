@@ -2,7 +2,7 @@
 
 - My current project is [`josh-development`](https://github.com/josh-development)
 - I am currently accepting front and back end commissions. I am also open to part time employment.
-- Ask me about [`Node.JS`](https://nodejs.org), [`Typescript`](https://typescriptlang.com) and [`SolidJS`](https://solidjs.com)
+- Ask me about [`Node.JS`](https://nodejs.org) and [`Typescript`](https://typescriptlang.com)
 - You can reach me in my Discord server.
   - Server: [`Nova's Lounge`](https://discord.gg/fERY6AenEv)
   - User: `RealShadowNova#7462`
